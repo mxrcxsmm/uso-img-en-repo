@@ -1,3 +1,3 @@
 # uso-img-en-repo
 
-<img src="img/Marc Martinez.png" alt="Marc Martinez">
+<img src="img/Marc Martinez.jpg" alt="Marc Martinez">
